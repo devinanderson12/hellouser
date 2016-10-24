@@ -29,7 +29,7 @@ namespace WindowsFormsApplication4
 
         private void button2_Click(object sender, EventArgs e)
         {
-            lblClick.Text = "Stay Happy";
+            lblClick.Text = "HELLO USER";
 
         }
 
@@ -42,6 +42,11 @@ namespace WindowsFormsApplication4
         private void button4_Click(object sender, EventArgs e)
         {
             lblClick.Text = "NOSPACES";
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
 
         }
     }

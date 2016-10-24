@@ -6,3 +6,4 @@
 \\sjsdfs1.sjsd.lcl\students\d.anderson2\my documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
 \\sjsdfs1.sjsd.lcl\students\d.anderson2\my documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
 \\sjsdfs1.sjsd.lcl\students\d.anderson2\my documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+\\SJSDFS1.SJSD.LCL\Students\d.anderson2\My Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
